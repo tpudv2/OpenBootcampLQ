@@ -1,0 +1,26 @@
+* {
+    font-family: Raleway;
+}
+
+h1 { 
+    
+    color:#03002b;
+    font-size: 60px;
+    font-weight: 900;
+
+}
+
+p {
+    
+    color: #ff4d4d;
+    font-size: 36px;
+
+}
+
+#wanna {
+    
+    color: #070707;
+    font-size: 18px;
+    font-weight: 900;
+
+}
